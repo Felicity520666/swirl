@@ -1,0 +1,21 @@
+.patrick-hand-regular {
+  font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+* {
+    background-color: rgb(255, 234, 251);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    color: rgb(255, 0, 242);
+}
+
+p {
+    font-size: medium;
+    font-family: Patrick Hand;
+}
